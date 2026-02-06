@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/LINKEDIN PROJECTS/Gray_to_Binary/Gray_to_Binary.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Gray_to_Binary
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/LINKEDIN PROJECTS/Gray_to_Binary/Gray_to_Binary_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Gray_to_Binary_tb

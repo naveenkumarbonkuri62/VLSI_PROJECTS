@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../AMDDsignTools/2025.2/Vivado/data/rsb/busdef" \
+"../../../../full_adder.v" \
+"../../../../half_adder.v" \
+"../../../../CountingOne_GateLevel.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
