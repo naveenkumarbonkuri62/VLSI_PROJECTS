@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+D:/LINKEDIN PROJECTS/Counting Ones_HammingWeight/Counting Ones_HammingWeight.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+D:/LINKEDIN PROJECTS/Counting Ones_HammingWeight/CountingOne_GateLevel.v,1770393191,verilog,,,,CountingOne_GateLevel,,,../../../../../../AMDDsignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/LINKEDIN PROJECTS/Counting Ones_HammingWeight/full_adder.v,1770395304,verilog,,D:/LINKEDIN PROJECTS/Counting Ones_HammingWeight/half_adder.v,,full_adder,,,../../../../../../AMDDsignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/LINKEDIN PROJECTS/Counting Ones_HammingWeight/half_adder.v,1770393372,verilog,,D:/LINKEDIN PROJECTS/Counting Ones_HammingWeight/CountingOne_GateLevel.v,,half_adder,,,../../../../../../AMDDsignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/LINKEDIN PROJECTS/Counting Ones_HammingWeight/hammingWeight.v,1770391348,verilog,,D:/LINKEDIN PROJECTS/Counting Ones_HammingWeight/hammingWeight_tb.v,,hammingWeight,,,../../../../../../AMDDsignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/LINKEDIN PROJECTS/Counting Ones_HammingWeight/hammingWeight_tb.v,1770392000,verilog,,,,hammingWeight_tb,,,../../../../../../AMDDsignTools/2025.2/Vivado/data/rsb/busdef,,,,,

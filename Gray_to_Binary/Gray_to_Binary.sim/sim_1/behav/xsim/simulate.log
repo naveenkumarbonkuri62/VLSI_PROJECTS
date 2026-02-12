@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+Gray = 0000 -> Binary = 0000
+Gray = 0001 -> Binary = 0001
+Gray = 0011 -> Binary = 0010
+Gray = 0010 -> Binary = 0011
+Gray = 0110 -> Binary = 0100
+Gray = 0111 -> Binary = 0101
+$finish called at time : 60 ns : File "D:/LINKEDIN PROJECTS/Gray_to_Binary/Gray_to_Binary_tb.v" Line 43
