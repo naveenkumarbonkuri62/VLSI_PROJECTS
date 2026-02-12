@@ -19,11 +19,6 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
-
-//check "Explore VLSI" Youtube Channel for code explanation
-
-
-
 `timescale 1ns/1ns
 module tb_fifo_sync();
 	
