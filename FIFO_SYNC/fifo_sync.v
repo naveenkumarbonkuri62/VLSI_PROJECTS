@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-//check "Explore VLSI" Youtube Channel for code explanation
+
 module fifo_sync
     // Parameters section
     #( parameter FIFO_DEPTH = 8,
