@@ -40,7 +40,7 @@ module apb_slave (
       PSLVERR <= 0; // Default no error
 
       if (PSEL && PENABLE && !transaction_active) begin
-        transaction_active <= 1; // Start kardenge transaction
+        transaction_active <= 1; // Start the transaction
         wait_counter <= 0;       //  counter==0
         PREADY <= 0;             // Enter wait state
       end
@@ -50,7 +50,7 @@ module apb_slave (
           wait_counter <= wait_counter + 1; // Incrementing wait counter
         end 
         else begin
-          PREADY <= 1;  // Transaction complete hogya
+          PREADY <= 1;  // Transaction completed
           transaction_active <= 0; // Reset transaction flag
 
           if (PWRITE) begin
